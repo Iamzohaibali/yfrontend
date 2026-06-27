@@ -1,8 +1,3 @@
-// ─────────────────────────────────────────────────────────────
-//  App.jsx  –  Google-style Login + Register Form
-//  Uses: React Hook Form | Tailwind CSS | authService.js
-//  Steps: email → password (login) OR register (new user)
-// ─────────────────────────────────────────────────────────────
 
 import React, { useState } from "react";
 import { useForm } from "react-hook-form";
